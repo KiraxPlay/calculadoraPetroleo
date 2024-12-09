@@ -1,4 +1,4 @@
-package com.example.calculadoraacueducto
+package com.example.calculadorapetroleo
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

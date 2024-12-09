@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.calculadoraacueducto"
+    namespace = "com.example.calculadorapetroleo"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.calculadoraacueducto"
+        applicationId = "com.example.calculadorapetroleo"
         minSdk = 22
         targetSdk = 34
         versionCode = 1
